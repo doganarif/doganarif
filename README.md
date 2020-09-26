@@ -1,8 +1,24 @@
+# Hello, I'm Arif Dogan 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-arifdogan95-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arifdogan95/)](https://www.linkedin.com/in/jlim/)
-[![Medium Badge](https://img.shields.io/badge/-@arifdogan-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@arifdogan)](https://medium.com/@_jessicalim)
-[![Twitter Badge](https://img.shields.io/badge/-@arifcodes-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/arifcodes)
-[![Instagram Badge](https://img.shields.io/badge/-@arifdogan-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/arifdogan)
-[![Gmail Badge](https://img.shields.io/badge/-arifdogan-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:arif@arifdogan.me)
+![JavaScript](https://img.shields.io/badge/JavaScript-expert-red)
+![TypeScript](https://img.shields.io/badge/TypeScript-expert-red)
+![Python](https://img.shields.io/badge/Python-expert-red)
+![Swift](https://img.shields.io/badge/Swift-expert-red)
 
-IT Team Leader At [![Github Badge](https://img.shields.io/badge/-@aidyco-black?style=flat&logo=github&logoColor=white&link=https://github.com/aidyco)](https://github.com/aidyco)
+- 🔭 I’m currently Working on **Bitexen** as a **Senior Back-End Developer**
+- ⚙️ Skills: `.py`,`.js`,`.swift`,`AWS`,`Docker`,`Kubernetes`
+- 👯 I’m collaborating on **Open Source** and **BlockChain** Technologies
+
+
+### 📬 Get in Touch
+
+- StackOverflow: [stackoverflow.com/users/9896496/arif-dogan][stackoverflow]
+- GitHub: [github.com/doganarif][github]
+- LinkedIn: [linkedin.com/in/arifdogan95][linkedin]
+- E-mail: arif@arifdogan.me
+
+### 📚 Looking for my Resume? E-Mail me!
+
+[stackoverflow]: stackoverflow.com/users/9896496/arif-dogan
+[github]: https://github.com/doganarif
+[linkedin]: https://www.linkedin.com/in/arifdogan95/

@@ -3,11 +3,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-expert-red)
 ![TypeScript](https://img.shields.io/badge/TypeScript-expert-red)
 ![Python](https://img.shields.io/badge/Python-expert-red)
-![Swift](https://img.shields.io/badge/Swift-expert-red)
+![Django](https://img.shields.io/badge/Django-expert-red)
+![Blockchain](https://img.shields.io/badge/Blockchain-expert-blue)
 
 - 🔭 I’m currently Working on **Bitexen** as a **Senior Back-End Developer**
-- ⚙️ Skills: `.py`,`.js`,`.swift`,`AWS`,`Docker`,`Kubernetes`
-- 👯 I’m collaborating on **Open Source** and **BlockChain** Technologies
+- ⚙️ Skills: `.py`,`.js`,`AWS`,`Docker`,`Kubernetes`
+- ₿ Working and Improving **BlockChain** Technologies
 
 
 ### 📬 Get in Touch

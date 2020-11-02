@@ -12,13 +12,13 @@
 
 ### 📬 Get in Touch
 
-- StackOverflow: [stackoverflow.com/users/9896496/arif-dogan][stackoverflow]
-- GitHub: [github.com/doganarif][github]
-- LinkedIn: [linkedin.com/in/arifdogan95][linkedin]
+- StackOverflow: [StackOverflow - Arif Dogan][stackoverflow]
+- GitHub: [Github - doganarif][github]
+- LinkedIn: [linkedin - arifdogan95][linkedin]
 - E-mail: arif@arifdogan.me
 
 ### 📚 Looking for my Resume? E-Mail me!
 
-[stackoverflow]: stackoverflow.com/users/9896496/arif-dogan
+[stackoverflow]: https://stackoverflow.com/users/9896496/arif-dogan
 [github]: https://github.com/doganarif
 [linkedin]: https://www.linkedin.com/in/arifdogan95/

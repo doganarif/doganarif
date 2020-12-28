@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Coding has always been my passion. I have been developing apps for more than 6 years. During this period i gained experience on top platforms. Interested in Blockchain Technologies and Cryptocurrencies</div>  
   
 

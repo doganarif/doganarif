@@ -5,7 +5,7 @@
   
   
 
-- ⚙️ Skills: `.py`, `.go`, `.js`, `AWS`, `Docker`, `Kubernetes`  
+- ⚙️ Coding: `.py`, `.go`, `.js`
   
 
 - ₿ Working and Improving **BlockChain** Technologies  

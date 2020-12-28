@@ -6,8 +6,8 @@
 ![Django](https://img.shields.io/badge/Django-expert-red)
 ![Blockchain](https://img.shields.io/badge/Blockchain-expert-blue)
 
-- 🔭 I’m currently Working on **Bitexen** as a **Senior Back-End Developer**
-- ⚙️ Skills: `.py`,`.js`,`AWS`,`Docker`,`Kubernetes`
+- 🔭 I’m currently Working on [Bitexen][bitexen] as a **Senior Back End Developer**
+- ⚙️ Skills: `.py`, `.go`, `.js`, `AWS`, `Docker`, `Kubernetes`
 - ₿ Working and Improving **BlockChain** Technologies
 
 
@@ -23,3 +23,4 @@
 [stackoverflow]: https://stackoverflow.com/users/9896496/arif-dogan
 [github]: https://github.com/doganarif
 [linkedin]: https://www.linkedin.com/in/arifdogan95/
+[bitexen]: https://bitexen.com

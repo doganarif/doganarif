@@ -5,10 +5,10 @@
   
   
 
-- ⚙️ Coding: `.py`, `.go`, `.js`
+- ⚙️ Coding: `.py`, `.go`, `.js`, `.sol`
   
 
-- ₿ Working and Improving **BlockChain** Technologies  
+- ₿ Intereset in `Ethereum`, `Chainlink`
   
 
 <br/>  

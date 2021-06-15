@@ -1,14 +1,14 @@
 ### <div align="center">Coding has always been my passion. I have been developing apps for more than 6 years. During this period i gained experience on top platforms. Interested in Blockchain Technologies and Cryptocurrencies</div>  
   
 
-- 🔭 I’m currently Working on [Bitexen](https://bitexen.com) as a **Senior Back End Developer**
+- 🔭 I’m currently Working on [10lift](https://10lift.com) as a **Senior Software Developer**
   
   
 
 - ⚙️ Coding: `.py`, `.go`, `.js`, `.sol`
   
 
-- ₿ Intereset in `Ethereum`, `Chainlink`
+- Intereset in `AWS` and `Gcloud`
   
 
 <br/>  

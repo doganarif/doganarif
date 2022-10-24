@@ -7,7 +7,7 @@ src="https://img.shields.io/twitter/follow/arifcodes?logo=twitter&style=for-the-
 
 Innovative Web Developer with 8 years of experience in Programming on Golang, Python, PHP. I have strong knowledge of AWS, GCP. I also enjoy working with relational and NoSQL databases. Demonstrated talent for front and back-end web development to optimize online presence. Logical and results-driven Web Developer dedicated to building and optimizing user-focused websites for customers with various business objectives. Judicious and creative when crafting effective websites, apps and platforms to propel competitive advantage and revenue growth. Technically proficient and analytical problem solver with calm and focused demeanor.
 
-* 🌍  I'm based in Berlin / Istanbul
+* 🌍  I'm based in Berlin
 * ✉️  You can contact me at [arif@10lift.com](mailto:arif@10lift.com)
 * 🚀  I'm currently working on [liftOS](http://liftos.io)
 * ⚡  Gopher, Music Lover, Nerd

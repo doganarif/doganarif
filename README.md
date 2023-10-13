@@ -19,10 +19,6 @@ Golang developer with 7 years of experience. Co-founder and technical lead at **
 - **Window Manager:** Hyprland
 - **Terminal:** Kitty
 
-### 🌱 I'm currently learning
-
-- Exploring open-source contributions and looking forward to making my first contribution.
-
 ### 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/arifdogan95/)

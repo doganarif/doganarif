@@ -8,12 +8,12 @@
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages:** Golang, PHP
-- **Frameworks:** Laravel
+- **Languages:** Golang, PHP, Python
+- **Frameworks:** Laravel, Django
 - **Editor:** Neovim
-- **OS:** Arch Linux
+- **OS:** Arch Linux, macOS
 - **Window Manager:** Hyprland
-- **Terminal:** Kitty
+- **Terminal:** Kitty, Alacritty
 
 ### 📫 How to reach me
 

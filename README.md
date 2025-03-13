@@ -8,7 +8,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages:** Golang, PHP, Python
+- **Languages:** Golang, PHP, Python, TS/JS
 - **Frameworks:** Laravel, Django
 - **Editor:** Neovim
 - **OS:** Arch Linux, macOS

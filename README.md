@@ -1,22 +1,22 @@
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/-ArchLinux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Kitty](https://img.shields.io/badge/-Kitty-FAE0BC?style=flat-square&logo=kitty&logoColor=black)
-![AWS Certified Developer](https://img.shields.io/badge/AWS-Certified%20Developer-orange?style=flat-square&logo=amazon-aws)
+<h3 align="center">Arif Dogan</h3>
 
-### 🛠️ Tech Stack & Tools
+<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white"/>
+<img src="https://img.shields.io/badge/-ArchLinux-1793D1?style=flat-square&logo=arch-linux&logoColor=white"/>
 
-- **Languages:** Golang, PHP, Python, TS/JS
-- **Frameworks:** Laravel, Django
-- **Editor:** Neovim
-- **OS:** Arch Linux, macOS
-- **Window Manager:** Hyprland
-- **Terminal:** Kitty, Alacritty
+### 🌱 Currently
 
-### 📫 How to reach me
+Tech lead in Berlin building high‑throughput Go services and AI tooling.  
+Vim keybindings everywhere—even the coffee machine.
 
-- [LinkedIn](https://www.linkedin.com/in/arifdogan95/)
-- [Twitter](https://twitter.com/arifcodes)
-- [GitHub](https://github.com/doganarif)
+### 🧰 Stack
+
+- **Languages** Go · Python · PHP · TypeScript  
+- **Frameworks** Laravel · Django  
+- **Infra** AWS | GCP | Kubernetes  
+- **Editor/OS** Neovim on Arch Linux (Hyprland), macOS  
+- **Terminal** Kitty · Alacritty  
+
+### 📬 Links
+
+[arif.sh](https://arif.sh) · [LinkedIn](https://www.linkedin.com/in/arifdogan95/) · [Twitter](https://twitter.com/arifcodes) · <me@arif.sh>
